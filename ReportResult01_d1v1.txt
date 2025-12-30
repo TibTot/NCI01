@@ -1,0 +1,18 @@
+
+ The (Population / Total number of households) in 2012, 2016, 2022:2.78, 2.8, 2.79. It has not changed significantly between 2022 and 2012. Moreover, in 2022 it is slightly lower than its 2016 value. The average size of households is stable in time.
+
+There is a significant increase in the indicator of Total number of persons / Total number of dwellings between 2012 and 2022. In 2012, 2016, 2022 it was 2.28, 2.33, 2.38, which means that 100 dwellings served 5 more people in 2016 compared to 2012 and another 5 more in 2022. In percentages: The majority of growth is between [2012; 2016] in 4 years: 2.6%. Over the next 6 years, growth was :2.2%, as a multiplicator over the previous 4 years, resulting 4.8%, between 2022 and 2012 in total.
+
+The Delta percentage (i.e. second-level) indicators detail the dynamics of change.
+
+The number of people living in Flat and apartments has increased substantially in 2012, 2016, 2022:1.96, 2.07, 2.13.
+
+ Also in the [2012; 2016] was the period for most of the growth, which means that 100 flats/apartments served 11 more people in 2016 compared to 2012 and another 6 more in 2022, so it is flatter  in [2016; 2022].
+
+1) The Shortage (2012 - 2022) (K dwellings): 143.0
+
+2) The New needs (2022 -2030) (K dwellings): 151.0
+
+3) The Total shortage (2022-2030)(sum of two results above) (K dwellings): 294.0
+
+4) This 'Total shortage' result should be compared to the 300K in Government' communication of early 2025.
